@@ -1,0 +1,10 @@
+{
+  "Name": "FishingAutomator",
+  "Author": "Zamiel",
+  "Version": "1.0.0",
+  "Description": "Automatically catches nibbling fish after 250 milliseconds",
+  "UniqueID": "Zamiel.FishingAutomator",
+  "EntryDll": "FishingAutomator.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["GitHub:Zamiell/FishingAutomator"]
+}

@@ -1,0 +1,10 @@
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.csproj.AssemblyReference.cache
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.AssemblyInfoInputs.cache
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.AssemblyInfo.cs
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.csproj.CoreCompileInputs.cache
+D:\Repositories\FishingAutomator\FishingAutomator\bin\Debug\net5.0\FishingAutomator.deps.json
+D:\Repositories\FishingAutomator\FishingAutomator\bin\Debug\net5.0\FishingAutomator.dll
+D:\Repositories\FishingAutomator\FishingAutomator\bin\Debug\net5.0\FishingAutomator.pdb
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.dll
+D:\Repositories\FishingAutomator\FishingAutomator\obj\Debug\net5.0\FishingAutomator.pdb
